@@ -1,1 +1,1 @@
-Funções para calculos em eletrônicam com Golang
+Funções para calculos em eletrônica com Golang
