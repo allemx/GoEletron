@@ -1,6 +1,7 @@
 //Função calcula freq ressonancia de um
 //circuito LC
 // Resultado:5.033069648525193 Mhz
+//https://go.dev/play/p/pUgQPVgWVga
 
 package main
 
