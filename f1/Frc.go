@@ -2,7 +2,7 @@
 // Frequencia de corte
 // Resistor em Ohms e Capacitor em farads
 // Resultado: 60 hertz
-//https://go.dev/play/p/WwOVQhOXLc0
+// https://go.dev/play/p/WwOVQhOXLc0
 
 package main
 
