@@ -1,6 +1,7 @@
 // Função calc Freq RL Resultado: 
 // 1.5915494309189533 Mhz 
 // 1591.5494309189532 Khz
+// https://go.dev/play/p/oAnyTTZf_jt
 
 package main
 
