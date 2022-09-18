@@ -1,6 +1,5 @@
 // Reatância Indutiva
-// Resultado: 376.99 
-// ohms 
+// Resultado: 376.99 ohms 
 // https://go.dev/play/p/w5L36DMip9x
 
 package main 
