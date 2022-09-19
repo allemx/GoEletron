@@ -2,7 +2,8 @@
 // Resultado: 39.826 ohms 
 // https://go.dev/play/p/3OwE8YjfFQu
 
-package main import ( "fmt" "math" ) 
+package main import ( "fmt"
+                      "math" ) 
 
 func main() {
 	r1 := 47.0 l1 := 75.0 
