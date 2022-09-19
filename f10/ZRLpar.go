@@ -8,7 +8,8 @@ import ( "fmt"
          "math" ) 
 
 func main() {
-	r1 := 47.0 l1 := 75.0 
+	r1 := 47.0 
+        l1 := 75.0 
         Z1 := ZRLpar(r1, l1) 
          fmt.Printf("%.3f ohms", Z1)
 }
