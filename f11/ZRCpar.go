@@ -2,8 +2,10 @@
 // Resultado: 39.826 
 // https://go.dev/play/p/Yi65vxcgE1-
 
-package main import ( "fmt"
-                      "math" ) 
+package main
+
+import ( "fmt"
+          "math" ) 
 
 func main() {
 	r1 := 47.0 
